@@ -1,13 +1,21 @@
-# Dukkan
+## Dukkan
 Building mobile shop app with React Native
 
-## Home Page
-![home](https://github.com/MustafaSungur/Dukkan/assets/81304546/c540bd2e-e0ed-493a-8a65-8eba1d69e24e)
+## Home Page 
+
+![Home](https://github.com/MustafaSungur/Dukkan/assets/81304546/a8c6f8af-945c-40da-b892-66b9e33056ce)
+
 
 ## Sort Product
-![sort](https://github.com/MustafaSungur/Dukkan/assets/81304546/dd7dc21a-1622-45c6-9c31-bb468d4c3be5)
+
+![sort](https://github.com/MustafaSungur/Dukkan/assets/81304546/a745a1af-4225-4f5c-8b54-9e91386284a4)
+
 
 ## Filter By Category
-![filter_category](https://github.com/MustafaSungur/Dukkan/assets/81304546/eb9a4061-8b11-4886-9522-923f28f2cfaf)
+
+![Fiter](https://github.com/MustafaSungur/Dukkan/assets/81304546/c8cf2712-fef2-45fd-bbf5-dba0e903f4d2)
+
 
 ## Details Page
+
+![details](https://github.com/MustafaSungur/Dukkan/assets/81304546/4f453d21-0584-4f54-b34c-5945ceeaad6a)
