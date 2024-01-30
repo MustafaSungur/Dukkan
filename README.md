@@ -1,7 +1,7 @@
 ## Dukkan
 Building mobile shop app with React Native
 
-## Home Page 
+## Home Page
 
 ![Home](https://github.com/MustafaSungur/Dukkan/assets/81304546/a8c6f8af-945c-40da-b892-66b9e33056ce)
 
